@@ -1,2 +1,6 @@
-# Awesome-FPGA-ASIC-RISC-V
-FPGA, ASIC, RISC-V
+
+
+
+
+# References
+- https://github.com/Vitorian/awesome-fpga
